@@ -22,7 +22,7 @@ sonaric identity-import -i <DOSYA YOLUNUZ>
 > Bu çıktıyı aldıysak devam
 
 ```console
-sonaric run sonaric-gui/latest
+sonaricd run sonaric-gui/latest
 ````
 
 ![image](https://github.com/user-attachments/assets/daba3408-29b7-4491-8942-4464264172cd)
